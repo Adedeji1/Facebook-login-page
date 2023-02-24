@@ -16,7 +16,7 @@ p{
 }
 .login_box{
     height: 250px;
-    width: 450px;
+    width: 300px;
     margin: 2px;
     padding: 50px;
     border: 2px solid gray;
@@ -50,7 +50,7 @@ button{
     padding: 20px;
     border: 2px;
     margin: 2px;
-    border-radius: 30px;
+    border-radius: 100px;
     
 }
 .ground{
@@ -70,5 +70,5 @@ span{
 footer{
     position: absolute;
     top: 80%;
-    left: 50%;
+    left: 55%;
 }
