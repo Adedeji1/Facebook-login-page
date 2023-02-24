@@ -6,6 +6,7 @@
     width: 500px;
     height: auto;
     padding-left: 300px;
+   
 }
 p{
     font-family: sans-serif;
@@ -65,4 +66,9 @@ span{
 }
 .last{
     background-color: #42b72a;
+}
+footer{
+    position: absolute;
+    top: 80%;
+    left: 50%;
 }
